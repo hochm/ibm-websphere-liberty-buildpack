@@ -15,5 +15,5 @@
 
 # Configuration for JRE repository
 ---
-repository_root: "http://example.com/buildpack/jre/"
+repository_root: "http://www.wast.ch/websphere/ibm-java-x86_64-jre-7.0-5.0.bin"
 version: 1.7.0_+
