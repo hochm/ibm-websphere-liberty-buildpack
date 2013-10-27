@@ -15,5 +15,5 @@
 
 # Configuration for JRE repository
 ---
-repository_root: "http://www.wast.ch/websphere/"
+repository_root: "http://swisscom.wast.ch/websphere/jre/"
 version: 1.7.0_+
