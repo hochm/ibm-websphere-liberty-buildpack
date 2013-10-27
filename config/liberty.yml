@@ -15,5 +15,5 @@
 
 # Configuration for the Liberty container
 ---
-repository_root: "http://www.wast.ch/websphere/wlp-developers-runtime-8.5.5.0.jar"
+repository_root: "http://www.wast.ch/websphere/"
 version: 8.5.+
